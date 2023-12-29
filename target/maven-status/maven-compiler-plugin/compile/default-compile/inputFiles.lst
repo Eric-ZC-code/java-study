@@ -2,6 +2,7 @@ D:\Desktop\Program\Java\tlias-web-management\src\main\java\com\itheima\service\E
 D:\Desktop\Program\Java\tlias-web-management\src\main\java\com\itheima\filter\LoginCheckFilter.java
 D:\Desktop\Program\Java\tlias-web-management\src\main\java\com\itheima\exception\GlobalExceptionHandler.java
 D:\Desktop\Program\Java\tlias-web-management\src\main\java\com\itheima\pojo\PageBean.java
+D:\Desktop\Program\Java\tlias-web-management\src\main\java\com\itheima\utils\AliOSSUtils.java
 D:\Desktop\Program\Java\tlias-web-management\src\main\java\com\itheima\controller\UploadController.java
 D:\Desktop\Program\Java\tlias-web-management\src\main\java\com\itheima\controller\DeptController.java
 D:\Desktop\Program\Java\tlias-web-management\src\main\java\com\itheima\mapper\DeptMapper.java

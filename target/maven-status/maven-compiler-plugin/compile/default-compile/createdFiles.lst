@@ -2,6 +2,7 @@ com\itheima\service\DeptService.class
 com\itheima\pojo\PageBean.class
 com\itheima\service\impl\DeptServiceImpl.class
 com\itheima\TliasWebManagementApplication.class
+com\itheima\utils\AliOSSUtils.class
 com\itheima\pojo\Result.class
 com\itheima\controller\LoginController.class
 com\itheima\mapper\EmpMapper.class

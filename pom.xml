@@ -96,6 +96,13 @@
             <artifactId>fastjson</artifactId>
             <version>2.0.1</version>
         </dependency>
+
+        <!--阿里云oss-->
+        <dependency>
+            <groupId>com.aliyun.oss</groupId>
+            <artifactId>aliyun-sdk-oss</artifactId>
+            <version>3.15.1</version>
+        </dependency>
     </dependencies>
 
     <build>
